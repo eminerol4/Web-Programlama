@@ -1,0 +1,6 @@
+WEB PROGRAMLAMA PROJE ÖDEVİ TANITIMI 
+Emine EROL 
+B191210027
+1.Öğretim C Grubu
+Bu proje çeşitli hobi alanları hakkında içerik paylaşılabilen, kullanıcıların yorum yapabildiği, kullanıcıların da siteye üye olarak içerik ekleyip güncelleyebildiği, bir web sitesi. İçeriklere örnek vermek gerekirse fotoğrafçılık, fotoğraf galerileri, çekim açısı, diğer sanatçıların eserleri hakkındaki yorumlar, kitap yorumları, film ve dizi yorumları, Film, dizi, kitap öneri listeleri vb. 
+
